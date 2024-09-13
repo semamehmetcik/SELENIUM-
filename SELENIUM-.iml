@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-context-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/byte-buddy-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/failsafe-3.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-api-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-common-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/guava-33.3.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-chromium-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/commons-exec-1.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/checker-qual-3.43.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/jspecify-1.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-api-incubator-1.41.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-chrome-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/error_prone_annotations-2.28.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-logs-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-extension-autoconfigure-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-api-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/byte-buddy-1.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-semconv-1.25.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-metrics-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/j2objc-annotations-3.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/failureaccess-1.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-exporter-logging-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-trace-1.41.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v85-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v126-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v127-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v128-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-edge-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-firefox-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-http-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-ie-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-java-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-json-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-manager-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-os-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-remote-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-safari-driver-4.24.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-support-4.24.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-common-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-context-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/jsr305-3.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/jspecify-1.0.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/error_prone_annotations-2.28.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/failsafe-3.3.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/commons-exec-1.4.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-api-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/j2objc-annotations-3.0.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-chromium-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-logs-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-api-incubator-1.41.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-metrics-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/auto-service-annotations-1.1.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-chrome-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-trace-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-extension-autoconfigure-spi-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v85-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/checker-qual-3.43.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/byte-buddy-1.15.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/failureaccess-1.0.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-semconv-1.25.0-alpha-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/guava-33.3.0-jre-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-api-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-sdk-extension-autoconfigure-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/opentelemetry-exporter-logging-1.41.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v126-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v127-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-devtools-v128-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-edge-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-firefox-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-http-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-ie-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-json-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-manager-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-os-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-remote-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-safari-driver-4.24.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/kurulumDosyaları/selenium-java-4.24.0 (3)/selenium-support-4.24.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
